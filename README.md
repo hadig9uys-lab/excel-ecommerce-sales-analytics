@@ -1,38 +1,36 @@
 # E-Commerce Sales & Customer Analytics
 
-### End-to-End Excel Data Analytics Portfolio Project
+### Excel Data Analytics Dashboard
 
 ## Project Overview
 
-This project analyzes Brazilian e-commerce sales and operational performance using Microsoft Excel. It transforms multi-table transactional data into professional dashboards that provide insights into revenue, customer activity, product performance, delivery efficiency, and customer satisfaction.
+This project analyzes Brazilian e-commerce sales and operational performance using Microsoft Excel. It presents business insights through two professional dashboards covering revenue, customer activity, product performance, delivery efficiency, and customer satisfaction.
 
 ## Business Objectives
 
-- Analyze monthly sales revenue and order trends.
+- Analyze monthly revenue and order trends.
 - Identify top-performing product categories and Brazilian states.
-- Evaluate average order value and customer activity.
-- Investigate order status, delivery performance, and customer reviews.
-- Examine payment methods and operational patterns.
+- Evaluate sales KPIs and customer activity.
+- Examine delivery performance, order status, and customer reviews.
+- Analyze payment methods and operational performance.
 
 ## Tools and Technologies
 
-**Microsoft Excel | Power Query | Power Pivot | DAX | PivotTables | PivotCharts | Interactive Dashboards**
+**Microsoft Excel | Data Analysis | Excel Formulas | Charts | KPI Reporting | Dashboard Design**
 
 ## Project Dashboards
 
 ### Executive Sales Dashboard
 
-Includes sales KPIs, monthly revenue trends, leading product categories, geographic sales performance, monthly orders, and average order value.
+Includes four KPI cards and five charts covering total sales, total orders, average order value, unique customers, monthly revenue, product categories, geographic sales, and order trends.
 
 ### Customer & Operations Dashboard
 
-Includes customer KPIs, delivery performance, review score distribution, payment methods, and order status analysis.
-
-The published dashboard workbook provides interactive dropdown controls for the available summary analyses. The original development workbook separately contains the Power Pivot model and DAX calculations.
+Includes four KPI cards and four charts covering customer activity, delivery performance, review scores, payment methods, and order statuses.
 
 ## Data Preparation
 
-Data preparation included reviewing data types, handling missing information, checking duplicate keys, translating product category names, and preparing geographic information. The development workbook uses relationships across the Olist datasets.
+The dashboard workbook uses summarized analysis results derived from the Olist e-commerce dataset. The original analysis involved preparing and organizing transactional data for reporting.
 
 ## Dataset Source
 
@@ -40,14 +38,14 @@ Data preparation included reviewing data types, handling missing information, ch
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Approximately 100,000 historical orders from Brazil, covering 2016–2018.
+Approximately 100,000 historical orders from Brazil (2016–2018).
 
-Dataset license: CC BY-NC-SA 4.0.
+License: CC BY-NC-SA 4.0.
 
 ## Project Limitations
 
-The published dashboards use saved analysis results and dropdown filters rather than native PivotTable slicers with model-wide cross-filtering. Historical figures should be validated against the source data before being treated as audited financial results.
+The published workbook contains static dashboard charts and summarized data. It does not include slicers, interactive filter.
 
 ## Project Goal
 
-Demonstrate practical Data Analyst skills in data preparation, modeling, DAX calculations, reporting, visualization, and business-focused interpretation using Microsoft Excel.
+Demonstrate practical Data Analyst skills in Excel reporting, KPI analysis, data visualization, dashboard design, and business performance analysis.
